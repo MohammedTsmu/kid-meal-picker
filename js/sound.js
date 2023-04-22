@@ -1,6 +1,6 @@
 // Define the songs data
 const songsData = [
-    { name: "Song 1", url: "../audio/all-you-need-is-joy-138573.mp3" },
+    { name: "Song 1", url: "./audio/all-you-need-is-joy-138573.mp3" },
     { name: "Song 2", url: "../audio/be-funny-145694.mp3" },
     { name: "Song 3", url: "../audio/be-happy-138622.mp3" },
     { name: "Song 4", url: "../audio/bright-fun-140310.mp3" },
